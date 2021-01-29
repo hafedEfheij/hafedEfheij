@@ -6,7 +6,11 @@
 - 🌱 I’m currently learning everything ( full stuck, python, cisco, etc)  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and watch movies 
+- ⚡ Fun fact: I love to draw, listen to music and watch movies 
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -40,7 +44,14 @@
 ---
 
 
-<!--END_SECTION:activity-->
+---
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+
 
 </details>
 
@@ -50,7 +61,10 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
+
 [twitter]: https://twitter.com/hefheij
 [linkedin]: https://www.linkedin.com/in/hafedefhej/
+
 
 
