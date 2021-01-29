@@ -1,12 +1,11 @@
-### Hi there 👋
+
 ### Hi there, I'm Hafed 👋
-screen_name=codeSTACKr)
 
 ## I'm a  Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything ( full stuck, python, cisco, etc)  🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watch movies 
 
 ### Connect with me:
