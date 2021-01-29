@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Hafed 👋
 
 
 ## I'm a Developer, and Teacher!!
