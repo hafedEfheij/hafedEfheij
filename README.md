@@ -5,16 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **Ruby on rails**
-- 🌱 I’m currently learning new exiting things 🤣
+- 🌱 I’m currently learning **Ruby on rails** and a new exiting thing 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, listen to music and watch movies
 - 💬 Ask me about **C#,JAVASCRIPT,VB, HTML, CSS,bootstrap React, Node.js and Laravel**
-
 - 📫 How to reach me **Hafedrs@gmail.com**
 
-- ⚡ Fun fact **I am a goalkeeper ⚽🧤**
 
 ### Connect with me:
 
