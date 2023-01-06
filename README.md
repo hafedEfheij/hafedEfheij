@@ -1,7 +1,7 @@
 ### Hi there, I'm Hafed 👋
 
 
-## I'm a Developer, and one of teahing staff at college of Electronic !!
+## I'm a Developer, and one of teaching staff at college of Electronic !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
