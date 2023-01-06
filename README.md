@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Ruby on rails** and a new exiting thing 🤣
+- 🌱 I’m currently learning **Ruby on rails** and a new exiting things 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, listen to music and watch movies
