@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, listen to music and watch movies
-- 💬 Ask me about **C#,JaVASCRIPT,VB, HTML, CSS,bootstrap React, Node.js and Laravel**
+- 💬 Ask me about **C#,JAVASCRIPT,VB, HTML, CSS,bootstrap React, Node.js and Laravel**
 
 - 📫 How to reach me **Hafedrs@gmail.com**
 
