@@ -1,10 +1,9 @@
 ### Hi, I am Hafed 👋
 
 
-<div align="center">
-
-   <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="500"/>
-  <br/>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+ 
 
   <h1><b>Hafed Efheij</b></h1>
  
