@@ -74,24 +74,12 @@ As a highly skilled multimedia engineer, I bring a rare combination of technical
 
 <!------------------------------ My GitHub Stats ------------------------------>
 
-<h2><i>My Hafed Efheij</i></h2>
+ ### :woman_technologist: Github Stats :
+           
+  ![hafedefheij's Stats](https://github-readme-stats.vercel.app/api?username=hafedefheij&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![hafedefheij's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafedefheij&theme=vue-dark&hide_border=true)
+  ![FevenSeyfu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafedefheij&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-</picture>
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafedefheij&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafedefheij&theme=dark)](https://git.io/streak-stats) 
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
