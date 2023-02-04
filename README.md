@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Hafed EFheij</h1>
-<h3 align="center">Full-Stack Developer </h3>
-
-<img alt="Coding" width="100%" src="https://i.gifer.com/LsZ0.gif" />
+### Hi, I am Hafed 👋
 
 
+<div align="center">
+
+   <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="500"/>
+  <br/>
+
+  <h1><b>Hafed Efheij</b></h1>
+ 
+</div>
+<!------------------------------ Now ------------------------------>
+ <section>
+   <h2><i>What is happening on 2023?</i></h2>
+I am in the process of acquiring new skills and enhancing my abilities. I will soon be ready to embark on new projects. If you are interested in my profile, please reach out to me via email or connect with me on LinkedIn.
+  
+ - 📧 Hafedrs@gmail.com
+  - 🔗 [Hafed Efhheij - LinkedIn] (https://www.linkedin.com/in/hafedefheij)
+</section>
+<!------------------------------ Experience ------------------------------>
+ <section>
+  <h2><i>About me</i></h2>
+  <br>
+  <p>
 
 - 🌱 I’m currently learning **Ruby on rails** and a new exiting things 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -11,43 +29,71 @@
 - ⚡ Fun fact: I love to draw, listen to music and watch movies
 - 💬 Ask me about **C#,JAVASCRIPT,VB, HTML, CSS,bootstrap React, Node.js and Laravel**
 - 📫 How to reach me **Hafedrs@gmail.com**
+  </p>
+</section>
+<!------------------------------ Knowledge ------------------------------>
+ <section>
+  <h2><i>Knowledge</i></h2>
+  <br>
+<p align="left">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+      <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt=""rails />
+    <img src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </p>
+</section>
+<!------------------------------ Soft Skills ------------------------------>
+ <section>
+  <h2><i>Soft Skills</i></h2>
+  <br>
+  <p>
+As a highly skilled multimedia engineer, I bring a rare combination of technical proficiency and exceptional interpersonal skills to the table. I am not only an expert in my field, but also a friendly, tolerant, and respectful individual who thrives in dynamic and communicative environments. Additionally, my ability to effectively organize and tune in to the needs of others has proven to make me a valuable asset to any team. With my diverse set of skills, I am confident that I am the ideal candidate for any web development project.
+  </p>
+</section>
+
+<!------------------------------ My GitHub Stats ------------------------------>
+
+<h2><i>My Hafed Efheij</i></h2>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=NelsonAraujo93&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+</picture>
 
 
-### Connect with me:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafedefheij&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
----
-
-
-[twitter]: https://twitter.com/hefheij
-[linkedin]: https://www.linkedin.com/in/hafedefhej/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafedefheij&theme=dark)](https://git.io/streak-stats) 
+  
+<div align="end">
+<p><b>Visitors Count</b></p>  
+<img src="https://profile-counter.glitch.me/{hafedefheij}/count.svg" />
+</div>
