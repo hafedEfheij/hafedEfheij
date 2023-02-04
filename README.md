@@ -14,7 +14,7 @@
 I am Hafed Efheij, hailing from Tripoli, Libya. With a passion for programming and a keen eye for problem-solving, I am eager to explore new and exciting opportunities in the field. My technical expertise includes working with PHP, .NET and a variety of other programming languages. I am now seeking to collaborate on intermediate-level Javascript projects and contribute my skills to the team. I am in the process of acquiring new skills and enhancing my abilities. I will soon be ready to embark on new projects. If you are interested in my profile, please reach out to me via email or connect with me on LinkedIn.
   
  - 📧 Hafedrs@gmail.com
-  - 🔗 [Hafed Efhheij - LinkedIn] (https://www.linkedin.com/in/hafedefheij)
+  - 🔗 [Hafed Efheij - LinkedIn] (https://www.linkedin.com/in/hafedefheij)
 </section>
 <!------------------------------ Experience ------------------------------>
  <section>
